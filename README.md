@@ -1,26 +1,26 @@
-# 👋 Fala, eu sou o Pedro Guimarães
+# 👋 Hi, I'm Pedro Guimarães
 
-💻 Desenvolvedor Front-End  
-🎯 Focado em interfaces modernas, experiência do usuário e produto  
-📍 Florianópolis - SC  
+💻 Front-End Developer  
+🎯 Focused on modern interfaces, user experience and product thinking  
+📍 Florianópolis, Brazil  
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou desenvolvedor front-end com foco na construção de interfaces bem estruturadas, com identidade visual forte e experiência fluida.
+I'm a Front-End developer focused on building clean, well-structured and visually strong interfaces.
 
-Gosto de transformar ideias em produtos digitais organizados, funcionais e com atenção aos detalhes.
+I enjoy turning ideas into real digital products, with attention to detail, usability and consistency.
 
-Atualmente estou evoluindo minhas habilidades em:
+Currently improving my skills in:
 - JavaScript
 - React
-- UI/UX
-- Estruturação de projetos reais
+- UI/UX Design
+- Real-world project structure
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🧠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
@@ -31,28 +31,28 @@ Atualmente estou evoluindo minhas habilidades em:
 
 ---
 
-## 📌 Projeto em destaque
+## 📌 Featured Project
 
 ### 🧩 Rift Codex
-Interface inspirada no universo de League of Legends, focada em organização visual, navegação e experiência de produto.
+A custom interface inspired by the League of Legends universe, focused on organizing Runeterra’s content into an immersive and product-oriented experience.
 
 🔗 https://github.com/pedrofguimaa/rift-codex
 
 ---
 
-## 📈 Em evolução
+## 📈 Currently Learning
 
 - React  
 - Node.js  
-- Estruturação de aplicações completas  
+- Full application architecture  
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-- 💼 LinkedIn: (coloca teu link)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-fguima/  
+- 📧 Email: pedro.feguima@gmail.com
 
 ---
 
-🔥 Sempre buscando evoluir e construir projetos com nível profissional.
+🔥 Always improving and building projects with real-world standards.
